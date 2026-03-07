@@ -50,9 +50,10 @@ Successful connectivity tests:
 The Packet Tracer file is included in the repository.
 ## Network Topology
 
-![Collapsed Core Topology](1-topology/topology.PNG)
+![Collapsed Core Topology](1- topology/topology.PNG)
 
  
+
 
 
 
